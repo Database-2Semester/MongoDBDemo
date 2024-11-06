@@ -1,5 +1,8 @@
 # MongoDBDemo
 
+Læs om MongoDB og Documentbased databaser på:
+* https://docs.google.com/presentation/d/1yM2Gh5I4yZ9DyfCm9HUPf2l5SMH0KXTIuQVKJqAwFfI/edit?usp=sharing
+
 ## Setup MongoDB
 
 ### MongoDB on MAC med HomeBrew
